@@ -1,2 +1,2 @@
 # TailwindCSS
- Experimenting with tailwindcss
+ Experimenting with tailwindcs
